@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+
+.box{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    /*Degradado Lineal simple*//*Por defecto el degradado va a aparecer desde arriba hacia abajo primero blanco y termina con negro*/
+    background: linear-gradient(#000, #fff); /*color de inicio color final*/
+}
